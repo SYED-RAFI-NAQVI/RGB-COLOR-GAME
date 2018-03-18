@@ -1,0 +1,72 @@
+body{
+  background: black;
+  margin: 0;
+  font-family: Bodoni MT;
+  font-weight: normal;
+}
+
+.square{
+  width: 30%;
+  background-color: green;
+  padding-top: 30%;
+  float: left;
+  margin: 1.55%;
+  transition: all 0.4s;
+  border-radius: 50%;
+}
+
+.jar{
+  max-width: 500px;
+  margin: 30px auto;
+
+}
+
+h1{
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: pink;
+  margin: 0;
+  line-height: 1;
+}
+
+#message{
+  color: black;
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+}
+
+#navbar{
+  background: white;
+  height: 30px;
+  text-align: center;
+}
+
+
+.level{
+  background-color: pink;
+}
+
+#colorDisplaying{
+  font-size: 50px;
+}
+
+button{
+  font-family: Bodoni MT;
+  font-weight: normal;
+  border: none;
+  background-color: white;
+  text-transform: uppercase;
+  height: 100%;
+  color: steelblue;
+  font-size: 15px;
+  transition: all 0.5s;
+  text-align: center;
+  outline: none;
+}
+
+button:hover{
+  color: white;
+  background-color: steelblue;
+}
