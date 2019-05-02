@@ -1,2 +1,2 @@
-# RGB-COLOR
+# RGB-COLOR-GAME
 
