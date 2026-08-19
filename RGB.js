@@ -1,4 +1,4 @@
-var numSquares = 6; // default: Hard
+var numSquares = 9; // default: Hard
 var colors = [];
 var colorChoosen;
 
